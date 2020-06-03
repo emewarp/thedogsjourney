@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Carlos_GameController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Carlos_GameController.cs" Line="68" Column="13" />
+      <File FileName="Assets\Scripts\Javi_CameraFade.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Carlos_toMazmorraRosa.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Javi_CameraFadeToMazmorraFinal.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Character.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\JaviAbrirPuertaBossFinal.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Carlos_toMazmorraVerde.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\JaviCarlos_CogerCosas.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AlvaroFoso.cs" Line="1" Column="1" />
+      <File FileName="Assets\Destructible Crate\Example\Scripts\Hit.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PasarNivelEsfera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game Jam Menu Template\Scripts\StartOptions.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

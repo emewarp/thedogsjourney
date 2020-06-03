@@ -1,0 +1,308 @@
+Initialize engine version: 5.3.6p3 (38355027a8f3)
+Failed to load 'C:/Users/cursos/Desktop/Javi/Proyecto Final/Proyecto final/prueba2_Data/Plugins/OVRPlugin.dll' with error 'No se puede encontrar el módulo especificado.
+'.
+ 
+(Filename:  Line: 117)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_PreInitialize.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetInitialized.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_Initialize.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_Shutdown.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetVersion.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNativeSDKVersion.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNativeSDKPointer.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetDisplayAdapterId.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAudioOutId.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAudioInId.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetupDistortionWindow.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_DestroyDistortionWindow.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetupEyeTexture.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_DestroyEyeTexture.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeTextureSize.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeTextureStageCount.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeTextureFlippedY.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetEyeTextureFlippedY.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeTextureShared.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetEyeTextureShared.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeTextureScale.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetEyeTextureScale.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeViewportScale.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetEyeViewportScale.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeOcclusionMesh.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyeOcclusionMeshEnabled.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetEyeOcclusionMeshEnabled.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetEyePreviewRect.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_Update.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_BeginFrame.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_EndEye.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_EndFrame.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetTrackingOrientationSupported.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetTrackingOrientationEnabled.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetTrackingOrientationEnabled.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetTrackingPositionSupported.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetTrackingPositionEnabled.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetTrackingPositionEnabled.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetTrackingCalibratedOrigin.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetTrackingOriginType.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetTrackingOriginType.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_RecenterTrackingOrigin.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodePresent.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodeOrientationTracked.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodePositionTracked.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodePose.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodeVelocity.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodeAcceleration.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetNodeFrustum.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetSystemProductName.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAppSRGB.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetAppSRGB.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAppHasVrFocus.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAppShouldQuit.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAppShouldRecenter.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_GetAppShouldRecreateDistortionWindow.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetupDisplayObjects.
+ 
+(Filename:  Line: 113)
+
+VR: Oculus could not be loaded: Failed to load symbol ovrp_SetEyeTexture.
+ 
+(Filename:  Line: 113)
+
+[VRDevice] Initialization of device oculus failed.
+
+ 
+(Filename:  Line: 88)
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Users\cursos\Desktop\Javi\Proyecto Final\Proyecto final;C:\Users\cursos\Desktop\Javi\Proyecto Final\Proyecto final;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'cursos'
+OS-Version: 6.1.7601 (Service Pack 1) 0x100-0x1
+C:\Users\cursos\Desktop\Javi\Proyecto Final\Proyecto final\prueba2.exe:prueba2.exe (013C0000), size: 17690624 (result: 0), SymType: 'PDB', PDB: '.\player_win_x86.pdb', fileVersion: 5.3.6.13648
+C:\Windows\SysWOW64\ntdll.dll:ntdll.dll (77190000), size: 1572864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SysWOW64\ntdll.dll', fileVersion: 6.1.7601.23807
+C:\Windows\syswow64\kernel32.dll:kernel32.dll (75E00000), size: 1114112 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\kernel32.dll', fileVersion: 6.1.7601.23807
+C:\Windows\syswow64\KERNELBASE.dll:KERNELBASE.dll (76390000), size: 290816 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\KERNELBASE.dll', fileVersion: 6.1.7601.23807
+C:\Windows\system32\HID.DLL:HID.DLL (5B5A0000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\HID.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\msvcrt.dll:msvcrt.dll (76480000), size: 704512 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\msvcrt.dll', fileVersion: 7.0.7601.17744
+C:\Windows\syswow64\GDI32.dll:GDI32.dll (75110000), size: 589824 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\GDI32.dll', fileVersion: 6.1.7601.23807
+C:\Windows\syswow64\USER32.dll:USER32.dll (76950000), size: 1048576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\USER32.dll', fileVersion: 6.1.7601.23594
+C:\Windows\syswow64\ADVAPI32.dll:ADVAPI32.dll (76CB0000), size: 659456 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\ADVAPI32.dll', fileVersion: 6.1.7601.23807
+C:\Windows\SysWOW64\sechost.dll:sechost.dll (76820000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SysWOW64\sechost.dll', fileVersion: 6.1.7601.18869
+C:\Windows\syswow64\RPCRT4.dll:RPCRT4.dll (765E0000), size: 983040 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\RPCRT4.dll', fileVersion: 6.1.7601.23816
+C:\Windows\syswow64\SspiCli.dll:SspiCli.dll (74A30000), size: 393216 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\SspiCli.dll', fileVersion: 6.1.7601.23816
+C:\Windows\syswow64\CRYPTBASE.dll:CRYPTBASE.dll (74A20000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\CRYPTBASE.dll', fileVersion: 6.1.7601.23816
+C:\Windows\syswow64\LPK.dll:LPK.dll (77160000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\LPK.dll', fileVersion: 6.1.7601.23807
+C:\Windows\syswow64\USP10.dll:USP10.dll (763E0000), size: 643072 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\USP10.dll', fileVersion: 1.626.7601.23807
+C:\Windows\syswow64\WS2_32.dll:WS2_32.dll (76130000), size: 217088 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\WS2_32.dll', fileVersion: 6.1.7601.23451
+C:\Windows\syswow64\NSI.dll:NSI.dll (76840000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\NSI.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\VERSION.dll:VERSION.dll (73280000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\VERSION.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\ole32.dll:ole32.dll (74CF0000), size: 1429504 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\ole32.dll', fileVersion: 6.1.7601.23775
+C:\Windows\syswow64\SHLWAPI.dll:SHLWAPI.dll (768F0000), size: 356352 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\SHLWAPI.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\SHELL32.dll:SHELL32.dll (751A0000), size: 12894208 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\SHELL32.dll', fileVersion: 6.1.7601.23806
+C:\Windows\system32\OPENGL32.dll:OPENGL32.dll (5B4D0000), size: 819200 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\OPENGL32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\GLU32.dll:GLU32.dll (5B4A0000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\GLU32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\DDRAW.dll:DDRAW.dll (5B3B0000), size: 946176 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\DDRAW.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\DCIMAN32.dll:DCIMAN32.dll (5B5B0000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\DCIMAN32.dll', fileVersion: 6.1.7601.23807
+C:\Windows\syswow64\SETUPAPI.dll:SETUPAPI.dll (761F0000), size: 1691648 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\SETUPAPI.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\CFGMGR32.dll:CFGMGR32.dll (765B0000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\CFGMGR32.dll', fileVersion: 6.1.7601.17621
+C:\Windows\syswow64\OLEAUT32.dll:OLEAUT32.dll (76770000), size: 593920 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\OLEAUT32.dll', fileVersion: 6.1.7601.23775
+C:\Windows\syswow64\DEVOBJ.dll:DEVOBJ.dll (76B40000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\DEVOBJ.dll', fileVersion: 6.1.7601.17621
+C:\Windows\system32\dwmapi.dll:dwmapi.dll (732D0000), size: 77824 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dwmapi.dll', fileVersion: 6.1.7601.18917
+C:\Windows\system32\WINMM.dll:WINMM.dll (5ADD0000), size: 204800 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\WINMM.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\IMM32.dll:IMM32.dll (76550000), size: 393216 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\IMM32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\MSCTF.dll:MSCTF.dll (76060000), size: 839680 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\MSCTF.dll', fileVersion: 6.1.7601.23572
+C:\Windows\system32\DNSAPI.dll:DNSAPI.dll (74960000), size: 278528 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\DNSAPI.dll', fileVersion: 6.1.7601.17570
+C:\Windows\system32\IPHLPAPI.DLL:IPHLPAPI.DLL (749C0000), size: 114688 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\IPHLPAPI.DLL', fileVersion: 6.1.7601.17514
+C:\Windows\system32\WINNSI.DLL:WINNSI.DLL (749B0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\WINNSI.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\system32\WINHTTP.dll:WINHTTP.dll (72C90000), size: 360448 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\WINHTTP.dll', fileVersion: 6.1.7601.23451
+C:\Windows\system32\webio.dll:webio.dll (72C40000), size: 327680 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\webio.dll', fileVersion: 6.1.7601.23375
+C:\Users\cursos\Desktop\Javi\Proyecto Final\Proyecto final\prueba2_Data\Mono\mono.dll:mono.dll (10000000), size: 2293760 (result: 0), SymType: '-exported-', PDB: 'C:\Users\cursos\Desktop\Javi\Proyecto Final\Proyecto final\prueba2_Data\Mono\mono.dll', fileVersion: 1.0.0.1
+C:\Windows\syswow64\PSAPI.DLL:PSAPI.DLL (768B0000), size: 20480 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\PSAPI.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\system32\MSWSOCK.dll:MSWSOCK.dll (73310000), size: 245760 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\MSWSOCK.dll', fileVersion: 6.1.7601.23451
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (72EC0000), size: 524288 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\uxtheme.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\wintrust.DLL:wintrust.DLL (768C0000), size: 192512 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\wintrust.DLL', fileVersion: 6.1.7601.23769
+C:\Windows\syswow64\CRYPT32.dll:CRYPT32.dll (75F10000), size: 1183744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\CRYPT32.dll', fileVersion: 6.1.7601.23769
+C:\Windows\syswow64\MSASN1.dll:MSASN1.dll (76050000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\MSASN1.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\CRYPTSP.dll:CRYPTSP.dll (729E0000), size: 94208 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\CRYPTSP.dll', fileVersion: 6.1.7601.23471
+C:\Windows\system32\rsaenh.dll:rsaenh.dll (5F5A0000), size: 241664 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\rsaenh.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\imagehlp.dll:imagehlp.dll (76D60000), size: 176128 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\imagehlp.dll', fileVersion: 6.1.7601.18288
+C:\Windows\system32\ncrypt.dll:ncrypt.dll (72A00000), size: 233472 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\ncrypt.dll', fileVersion: 6.1.7601.23816
+C:\Windows\system32\bcrypt.dll:bcrypt.dll (73260000), size: 94208 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\bcrypt.dll', fileVersion: 6.1.7601.23816
+C:\Windows\SysWOW64\bcryptprimitives.dll:bcryptprimitives.dll (5EE20000), size: 249856 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SysWOW64\bcryptprimitives.dll', fileVersion: 6.1.7601.23451
+C:\Windows\syswow64\USERENV.dll:USERENV.dll (74CD0000), size: 94208 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\USERENV.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\profapi.dll:profapi.dll (76530000), size: 45056 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\syswow64\profapi.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\GPAPI.dll:GPAPI.dll (5F340000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\GPAPI.dll', fileVersion: 6.1.7601.23452
+C:\Windows\system32\dbghelp.dll:dbghelp.dll (5AB90000), size: 962560 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dbghelp.dll', fileVersion: 6.1.7601.17514
+
+========== OUTPUTING STACK TRACE ==================
+
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****

@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: 6af15802b1abc6e4c9e61c6cabbabe74
+timeCreated: 1499172912
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bat - Vampire - skin pose
+    100002: Bat - Vampire01
+    100004: Bat - Vampire02
+    100006: Bat - Vampire03
+    100008: Bat - Vampire04
+    100010: Bat - Vampire05
+    100012: Bat - Vampire06
+    100014: Bat - Vampire07
+    100016: //RootNode
+    100018: Body
+    100020: Body_back
+    100022: Body_front
+    100024: Ear_left
+    100026: Ear_right
+    100028: Head
+    100030: Jaw
+    100032: Neck
+    100034: Nose
+    100036: Paw_left_04
+    100038: Paw_left_05
+    100040: Paw_left_06
+    100042: Paw_left_finger_06
+    100044: Paw_left_finger_07
+    100046: Paw_left_finger_08
+    100048: Paw_right_01
+    100050: Paw_right_02
+    100052: Paw_right_03
+    100054: Paw_right_finger_01
+    100056: Paw_right_finger_02
+    100058: Paw_right_finger_03
+    100060: Paw_right_finger_04
+    100062: Paw_right_finger_05
+    100064: Tail_01
+    100066: Tail_02
+    100068: Tail_03
+    100070: Tail_04
+    100072: Wing_left_01
+    100074: Wing_left_02
+    100076: Wing_left_finger1_01
+    100078: Wing_left_finger1_02
+    100080: Wing_left_finger2_01
+    100082: Wing_left_finger2_02
+    100084: Wing_left_finger2_03
+    100086: Wing_left_finger3_01
+    100088: Wing_left_finger3_02
+    100090: Wing_left_finger3_03
+    100092: Wing_left_finger4_01
+    100094: Wing_left_finger4_02
+    100096: Wing_left_finger4_3
+    100098: Wing_left_finger5_01
+    100100: Wing_left_finger5_02
+    100102: Wing_left_finger5_03
+    100104: Wing_left_hand
+    100106: Wing_right_01
+    100108: Wing_right_02
+    100110: Wing_right_03
+    100112: Wing_right_finger1_01
+    100114: Wing_right_finger1_02
+    100116: Wing_right_finger2_01
+    100118: Wing_right_finger2_02
+    100120: Wing_right_finger2_03
+    100122: Wing_right_finger3_01
+    100124: Wing_right_finger3_02
+    100126: Wing_right_finger3_03
+    100128: Wing_right_finger4_01
+    100130: Wing_right_finger4_02
+    100132: Wing_right_finger4_03
+    100134: Wing_right_finger5_01
+    100136: Wing_right_finger5_02
+    100138: Wing_right_finger5_03
+    400000: Bat - Vampire - skin pose
+    400002: Bat - Vampire01
+    400004: Bat - Vampire02
+    400006: Bat - Vampire03
+    400008: Bat - Vampire04
+    400010: Bat - Vampire05
+    400012: Bat - Vampire06
+    400014: Bat - Vampire07
+    400016: //RootNode
+    400018: Body
+    400020: Body_back
+    400022: Body_front
+    400024: Ear_left
+    400026: Ear_right
+    400028: Head
+    400030: Jaw
+    400032: Neck
+    400034: Nose
+    400036: Paw_left_04
+    400038: Paw_left_05
+    400040: Paw_left_06
+    400042: Paw_left_finger_06
+    400044: Paw_left_finger_07
+    400046: Paw_left_finger_08
+    400048: Paw_right_01
+    400050: Paw_right_02
+    400052: Paw_right_03
+    400054: Paw_right_finger_01
+    400056: Paw_right_finger_02
+    400058: Paw_right_finger_03
+    400060: Paw_right_finger_04
+    400062: Paw_right_finger_05
+    400064: Tail_01
+    400066: Tail_02
+    400068: Tail_03
+    400070: Tail_04
+    400072: Wing_left_01
+    400074: Wing_left_02
+    400076: Wing_left_finger1_01
+    400078: Wing_left_finger1_02
+    400080: Wing_left_finger2_01
+    400082: Wing_left_finger2_02
+    400084: Wing_left_finger2_03
+    400086: Wing_left_finger3_01
+    400088: Wing_left_finger3_02
+    400090: Wing_left_finger3_03
+    400092: Wing_left_finger4_01
+    400094: Wing_left_finger4_02
+    400096: Wing_left_finger4_3
+    400098: Wing_left_finger5_01
+    400100: Wing_left_finger5_02
+    400102: Wing_left_finger5_03
+    400104: Wing_left_hand
+    400106: Wing_right_01
+    400108: Wing_right_02
+    400110: Wing_right_03
+    400112: Wing_right_finger1_01
+    400114: Wing_right_finger1_02
+    400116: Wing_right_finger2_01
+    400118: Wing_right_finger2_02
+    400120: Wing_right_finger2_03
+    400122: Wing_right_finger3_01
+    400124: Wing_right_finger3_02
+    400126: Wing_right_finger3_03
+    400128: Wing_right_finger4_01
+    400130: Wing_right_finger4_02
+    400132: Wing_right_finger4_03
+    400134: Wing_right_finger5_01
+    400136: Wing_right_finger5_02
+    400138: Wing_right_finger5_03
+    2300000: Bat - Vampire - skin pose
+    2300002: Bat - Vampire01
+    2300004: Bat - Vampire02
+    2300006: Bat - Vampire03
+    2300008: Bat - Vampire04
+    2300010: Bat - Vampire05
+    2300012: Bat - Vampire06
+    2300014: Bat - Vampire07
+    2300016: Body
+    2300018: Body_back
+    2300020: Body_front
+    2300022: Ear_left
+    2300024: Ear_right
+    2300026: Head
+    2300028: Jaw
+    2300030: Neck
+    2300032: Nose
+    2300034: Paw_left_04
+    2300036: Paw_left_05
+    2300038: Paw_left_06
+    2300040: Paw_left_finger_06
+    2300042: Paw_left_finger_07
+    2300044: Paw_left_finger_08
+    2300046: Paw_right_01
+    2300048: Paw_right_02
+    2300050: Paw_right_03
+    2300052: Paw_right_finger_01
+    2300054: Paw_right_finger_02
+    2300056: Paw_right_finger_03
+    2300058: Paw_right_finger_04
+    2300060: Paw_right_finger_05
+    2300062: Tail_01
+    2300064: Tail_02
+    2300066: Tail_03
+    2300068: Tail_04
+    2300070: Wing_left_01
+    2300072: Wing_left_02
+    2300074: Wing_left_finger1_01
+    2300076: Wing_left_finger1_02
+    2300078: Wing_left_finger2_01
+    2300080: Wing_left_finger2_02
+    2300082: Wing_left_finger2_03
+    2300084: Wing_left_finger3_01
+    2300086: Wing_left_finger3_02
+    2300088: Wing_left_finger3_03
+    2300090: Wing_left_finger4_01
+    2300092: Wing_left_finger4_02
+    2300094: Wing_left_finger4_3
+    2300096: Wing_left_finger5_01
+    2300098: Wing_left_finger5_02
+    2300100: Wing_left_finger5_03
+    2300102: Wing_left_hand
+    2300104: Wing_right_01
+    2300106: Wing_right_02
+    2300108: Wing_right_03
+    2300110: Wing_right_finger1_01
+    2300112: Wing_right_finger1_02
+    2300114: Wing_right_finger2_01
+    2300116: Wing_right_finger2_02
+    2300118: Wing_right_finger2_03
+    2300120: Wing_right_finger3_01
+    2300122: Wing_right_finger3_02
+    2300124: Wing_right_finger3_03
+    2300126: Wing_right_finger4_01
+    2300128: Wing_right_finger4_02
+    2300130: Wing_right_finger4_03
+    2300132: Wing_right_finger5_01
+    2300134: Wing_right_finger5_02
+    2300136: Wing_right_finger5_03
+    3300000: Bat - Vampire - skin pose
+    3300002: Bat - Vampire01
+    3300004: Bat - Vampire02
+    3300006: Bat - Vampire03
+    3300008: Bat - Vampire04
+    3300010: Bat - Vampire05
+    3300012: Bat - Vampire06
+    3300014: Bat - Vampire07
+    3300016: Body
+    3300018: Body_back
+    3300020: Body_front
+    3300022: Ear_left
+    3300024: Ear_right
+    3300026: Head
+    3300028: Jaw
+    3300030: Neck
+    3300032: Nose
+    3300034: Paw_left_04
+    3300036: Paw_left_05
+    3300038: Paw_left_06
+    3300040: Paw_left_finger_06
+    3300042: Paw_left_finger_07
+    3300044: Paw_left_finger_08
+    3300046: Paw_right_01
+    3300048: Paw_right_02
+    3300050: Paw_right_03
+    3300052: Paw_right_finger_01
+    3300054: Paw_right_finger_02
+    3300056: Paw_right_finger_03
+    3300058: Paw_right_finger_04
+    3300060: Paw_right_finger_05
+    3300062: Tail_01
+    3300064: Tail_02
+    3300066: Tail_03
+    3300068: Tail_04
+    3300070: Wing_left_01
+    3300072: Wing_left_02
+    3300074: Wing_left_finger1_01
+    3300076: Wing_left_finger1_02
+    3300078: Wing_left_finger2_01
+    3300080: Wing_left_finger2_02
+    3300082: Wing_left_finger2_03
+    3300084: Wing_left_finger3_01
+    3300086: Wing_left_finger3_02
+    3300088: Wing_left_finger3_03
+    3300090: Wing_left_finger4_01
+    3300092: Wing_left_finger4_02
+    3300094: Wing_left_finger4_3
+    3300096: Wing_left_finger5_01
+    3300098: Wing_left_finger5_02
+    3300100: Wing_left_finger5_03
+    3300102: Wing_left_hand
+    3300104: Wing_right_01
+    3300106: Wing_right_02
+    3300108: Wing_right_03
+    3300110: Wing_right_finger1_01
+    3300112: Wing_right_finger1_02
+    3300114: Wing_right_finger2_01
+    3300116: Wing_right_finger2_02
+    3300118: Wing_right_finger2_03
+    3300120: Wing_right_finger3_01
+    3300122: Wing_right_finger3_02
+    3300124: Wing_right_finger3_03
+    3300126: Wing_right_finger4_01
+    3300128: Wing_right_finger4_02
+    3300130: Wing_right_finger4_03
+    3300132: Wing_right_finger5_01
+    3300134: Wing_right_finger5_02
+    3300136: Wing_right_finger5_03
+    4300000: Body
+    4300002: Body_back
+    4300004: Tail_01
+    4300006: Tail_02
+    4300008: Tail_03
+    4300010: Tail_04
+    4300012: Paw_right_01
+    4300014: Paw_right_02
+    4300016: Paw_right_03
+    4300018: Paw_right_finger_04
+    4300020: Paw_right_finger_03
+    4300022: Paw_right_finger_01
+    4300024: Paw_right_finger_02
+    4300026: Paw_left_04
+    4300028: Paw_left_05
+    4300030: Paw_left_06
+    4300032: Paw_right_finger_05
+    4300034: Paw_left_finger_06
+    4300036: Paw_left_finger_07
+    4300038: Paw_left_finger_08
+    4300040: Body_front
+    4300042: Wing_left_01
+    4300044: Wing_left_02
+    4300046: Wing_left_hand
+    4300048: Wing_left_finger2_01
+    4300050: Wing_left_finger2_02
+    4300052: Wing_left_finger2_03
+    4300054: Wing_left_finger3_01
+    4300056: Wing_left_finger3_02
+    4300058: Wing_left_finger3_03
+    4300060: Wing_left_finger4_01
+    4300062: Wing_left_finger4_02
+    4300064: Wing_left_finger4_3
+    4300066: Wing_left_finger5_01
+    4300068: Wing_left_finger5_02
+    4300070: Wing_left_finger5_03
+    4300072: Wing_left_finger1_01
+    4300074: Wing_left_finger1_02
+    4300076: Wing_right_01
+    4300078: Wing_right_02
+    4300080: Wing_right_03
+    4300082: Wing_right_finger2_01
+    4300084: Wing_right_finger2_02
+    4300086: Wing_right_finger2_03
+    4300088: Wing_right_finger3_01
+    4300090: Wing_right_finger3_02
+    4300092: Wing_right_finger3_03
+    4300094: Wing_right_finger4_01
+    4300096: Wing_right_finger4_02
+    4300098: Wing_right_finger4_03
+    4300100: Wing_right_finger5_01
+    4300102: Wing_right_finger5_02
+    4300104: Wing_right_finger5_03
+    4300106: Wing_right_finger1_01
+    4300108: Wing_right_finger1_02
+    4300110: Neck
+    4300112: Head
+    4300114: Jaw
+    4300116: Nose
+    4300118: Ear_left
+    4300120: Ear_right
+    4300122: Bat - Vampire01
+    4300124: Bat - Vampire02
+    4300126: Bat - Vampire03
+    4300128: Bat - Vampire04
+    4300130: Bat - Vampire05
+    4300132: Bat - Vampire06
+    4300134: Bat - Vampire07
+    4300136: Bat - Vampire - skin pose
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
